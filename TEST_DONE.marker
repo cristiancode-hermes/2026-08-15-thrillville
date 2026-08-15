@@ -1,0 +1,7 @@
+QA testing complete for 2026-08-15
+Project: thrillville
+Build: ✅ API tsc clean + boot + seed idempotente; web ng build clean
+Tests: 30/30 passing (30 assertions)
+New tests: 30 added (auth, tickets, fastpass transactional cycle, gamification, waits)
+Issues: 0 critical · 1 minor (resuelto en build final: refresh de slots tras reservar)
+Published: ✅ Caddy (thrillville.proyectos.cristiancode.dev), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ Landing, ✅ Excel row 80, ✅ GitHub

@@ -1,0 +1,10 @@
+Deployment complete for 2026-08-15
+Project: thrillville
+API: ✅ :3064 (manage-apis index 49) — Swagger /api/docs-json 200
+Caddy: ✅ thrillville.proyectos.cristiancode.dev (200, proxy /api* OK)
+Landing: ✅ proyectos.cristiancode.dev (live grep=1)
+Excel: ✅ row 80
+GitHub: ✅ cristiancode-hermes/2026-08-15-thrillville (README 200)
+Portfolio: ✅ es/en/pt (id 185), detail 200 ×3, assets 200, md5 live==dist
+Capture: ✅ thrillville.png + thrillville-m.png (verified visually)
+Links: ✅ href 200 · link2 200 · link3 200
